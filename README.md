@@ -1,8 +1,7 @@
 # 🏥 HospitalOS – Advanced Hospital Management System  
 ### Built with Django | Production-Ready Web Application  
 <div align=\"center\">
-  <img src=\"hospitals/static/images/banner.svg\" alt=\"HospitalOS Banner\" width=\"800\"/>
-  <br><br>
+ 
   
   ![Django](https://img.shields.io/badge/Django-6.0.4-0E1116?style=for-the-badge&logo=django&logoColor=0CE2C7)
   ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=F9C010)
