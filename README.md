@@ -1,5 +1,25 @@
 # 🏥 HospitalOS – Advanced Hospital Management System  
 ### Built with Django | Production-Ready Web Application  
+<div align=\"center\">
+  <img src=\"hospitals/static/images/banner.svg\" alt=\"HospitalOS Banner\" width=\"800\"/>
+  <br><br>
+  
+  ![Django](https://img.shields.io/badge/Django-6.0.4-0E1116?style=for-the-badge&logo=django&logoColor=0CE2C7)
+  ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=F9C010)
+  ![SQLite](https://img.shields.io/badge/SQLite3-07405E?style=for-the-badge&logo=sqlite&logoColor=FFFFFF)
+  ![Windows](https://img.shields.io/badge/Windows11-Tested-00C6F8?style=for-the-badge&logo=windows11&logoColor=FFFFFF)
+  ![MIT](https://img.shields.io/badge/License-MIT-E91E63?style=for-the-badge&logo=mit&logoColor=FFFFFF)
+
+╔══════════════════════════════════════════════════════════════╗
+║      🏥 HOSPITALOS v2.0 - ADMIN DASHBOARD PRO 🏥            ║
+║                                                              ║
+║  👨‍⚕️ Doctors    │  👥 Patients    │  📅 Appointments         ║
+║  📧 Smart Queries│  🔐 Secure Login│  📊 Live Stats         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+             🎯 Zero-Config | Runs in 90s | Django Powered
+
+</div>
 
 ---
 
